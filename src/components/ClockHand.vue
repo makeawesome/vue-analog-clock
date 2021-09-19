@@ -5,7 +5,7 @@
 </template>
 
 <script>
-import ClockHandStyle from '../model/ClockHandStyle.js';
+import ClockHandStyle from '../models/ClockHandStyle.js';
 
 export default {
   props: {

@@ -14,9 +14,9 @@
 
 <script>
 import ClockFace from './ClockFace.vue';
-import HoursHand from './hands/HoursHand.vue';
-import MinutesHand from './hands/MinutesHand.vue';
-import SecondsHand from './hands/SecondsHand.vue';
+import HoursHand from './clockHands/HoursHand.vue';
+import MinutesHand from './clockHands/MinutesHand.vue';
+import SecondsHand from './clockHands/SecondsHand.vue';
 
 export default {
   name: 'ClockComponent',

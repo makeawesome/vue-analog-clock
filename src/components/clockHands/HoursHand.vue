@@ -8,7 +8,7 @@
 
 <script>
 import ClockHand from '../ClockHand.vue';
-import ClockHandStyle from '../../model/ClockHandStyle.js';
+import ClockHandStyle from '../../models/ClockHandStyle.js';
 import { mapState } from 'vuex';
 
 export default {
